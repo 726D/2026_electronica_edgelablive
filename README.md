@@ -4,16 +4,14 @@ https://www.edgebench.io/go-elli
 ![schedule](https://github.com/726D/2026_electronica_edgelablive/blob/main/elli-program-schedule.svg?source=https://github.com/726D/2026_electronica_edgelablive/blob/main/elli-program-schedule.svg)
 
 ## day 1
-
-- https://community.nxp.com/t5/S32K-Knowledge-Base/Hands-On-Real-Time-Control-Sensing-and-Visualization-with-FRDM-A/ta-p/2426442?profile.language=en
-- https://lvgl.io/electronica
-
+[sessions](https://github.com/726D/2026_electronica_edgelablive/blob/main/day1/sessions.md)
 
 ## day 2
+[sessions](https://github.com/726D/2026_electronica_edgelablive/blob/main/day2/sessions.md)
 
+## day 3 
+[sessions](https://github.com/726D/2026_electronica_edgelablive/blob/main/day3/sessions.md)
 
-## day3 
-
-
-## day4
+## day 4
+[sessions](https://github.com/726D/2026_electronica_edgelablive/blob/main/day4/sessions.md)
 
